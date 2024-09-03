@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "title": "Digital Artwork #001",
+      "price": "0.5 ETH",
+      "description": "A stunning piece of digital art created by renowned artist Jane Doe. Perfect for collectors and enthusiasts.",
+      "imgUrl": "nft1.jpg"
+    },
+    {
+      "title": "CryptoCollectible #002",
+      "price": "1 ETH",
+      "description": "A unique collectible featuring an iconic character from the popular CryptoCollectibles series. Limited edition.",
+      "imgUrl": "nft2.jpg"
+    },
+    {
+      "title": "Virtual Real Estate Plot #003",
+      "price": "2 ETH",
+      "description": "An exclusive plot of virtual land in the Metaverse. Ideal for building and customizing your own virtual space.",
+      "imgUrl": "nft3.webp"
+    },
+    {
+      "title": "Music Track NFT #004",
+      "price": "0.3 ETH",
+      "imgUrl": "nft4.webp",
+      "description": "An original music track by emerging artist Alex Smith. Own a piece of music history and enjoy special perks."
+    },
+    {
+      "title": "Rare Gaming Item #005",
+      "price": "0.8 ETH",
+      "imgUrl": "nft5.webp",
+      "description": "A rare in-game item with unique attributes for the popular online game 'Epic Quest'. Enhance your gameplay with this exclusive item."
+    },
+    {
+      "title": "Animated GIF Art #006",
+      "price": "0.4 ETH",
+      "imgUrl": "nft6.webp",
+      "description": "A mesmerizing animated GIF created by digital artist Lisa Brown. Perfect for adding a dynamic touch to your NFT collection."
+    },
+    {
+      "title": "Historical Event Memorabilia #007",
+      "price": "1.5 ETH",
+      "imgUrl": "nft7.webp",
+      "description": "A digital representation of a significant historical event, captured and tokenized as a collectible NFT. A must-have for history buffs."
+    },
+    {
+      "title": "Virtual Fashion Item #008",
+      "price": "0.6 ETH",
+      "imgUrl": "nft8.webp",
+      "description": "An exclusive virtual fashion item for your digital avatars. Designed by top fashion designers for the virtual world."
+    },
+    {
+      "title": "Artistic 3D Model #009",
+      "price": "0.7 ETH",
+      "imgUrl": "nft9.webp",
+      "description": "A high-quality 3D model created by artist Mike Johnson. Use it for virtual worlds, games, or as a collector's item."
+    },
+    {
+      "title": "Limited Edition Comic Book #010",
+      "price": "0.9 ETH",
+      "imgUrl": "nft10.webp",
+      "description": "A limited edition digital comic book featuring the first issue of an exciting new superhero series. Includes special bonus content."
+    }
+  ]
+}
